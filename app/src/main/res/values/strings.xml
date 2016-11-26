@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FINAL</string>
+    <string name="m_s_2">m/s^2</string>
+    <string name="m_s2">m/s2</string>
+    <string name="aceleraci_n">Aceleración=</string>
+    <string name="segundos">segundos</string>
+</resources>
